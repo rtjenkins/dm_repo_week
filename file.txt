@@ -1,0 +1,8 @@
+this line 1 for the file
+this line 2 for the file
+line 3
+
+a = 10
+b = 20
+
+print (a+b)
