@@ -5,8 +5,8 @@ trigger:
 
 variables:
   service-connection: 'machine-learning-connection' # replace with your service connection name
-  resource-group: 'machinelearning-rg' # replace with your resource group name
-  workspace: 'docs-ws' # replace with your workspace name
+  resource-group: 'RTgroup1' # replace with your resource group name
+  workspace: 'RTWorkspace1' # replace with your workspace name
 
 jobs:
 - job: SubmitAzureMLJob
